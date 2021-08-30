@@ -1,0 +1,6 @@
+-->fputc()
+J
+-->fputs()
+Bonjour
+-->fprintf()
+28 Naoki 1000
