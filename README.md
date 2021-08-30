@@ -1,5 +1,10 @@
 # C
 
+#
+
+[C - tutoriels - FormationVidéo](https://www.youtube.com/playlist?list=PLrSOXFDHBtfECGo-do0Xf6o3fjc8Rta5N)
+
+
 # Pré requis
 [Tutoriel Windows - installer MinGW](https://www.youtube.com/watch?v=y-i96kqT53A&list=RDCMUCS2e0hEJMhwd6bNscS60xTg&start_radio=1&rv=y-i96kqT53A&t=589)
 
