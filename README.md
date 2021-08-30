@@ -2,7 +2,7 @@
 
 #
 
-[C - tutoriels - FormationVidéo](https://www.youtube.com/playlist?list=PLrSOXFDHBtfECGo-do0Xf6o3fjc8Rta5N)
+[C - Cours - FormationVidéo](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j)
 
 
 # Pré requis
